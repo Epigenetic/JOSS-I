@@ -4193,7 +4193,7 @@ X015E050     *  1 020 T  0 010 M  0,    RESET ACCUMULATOR AND JUMP
 =001E050     *  9 010 ----         ,
 
 
-=002E000+     = 2 024 K  2 010 $  0     ADVANCE TO NONSPACE
+=002E000+    =  2 024 K  2 010 $  0     ADVANCE TO NONSPACE
 =002E010          052 *  9 010 *  1
 
 
